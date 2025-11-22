@@ -1,0 +1,5 @@
+{
+  "name": "YAKMOV Admin",
+  "description": "A glassmorphism-styled admin dashboard for managing movies, series, and episodes with local storage persistence.",
+  "requestFramePermissions": []
+}
